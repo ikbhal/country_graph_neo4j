@@ -1,0 +1,284 @@
+island_countries = [
+    {
+        "name": "Antigua and Barbuda",
+        "population": 103050,
+        "area": 442,
+        "capital": "Saint John's",
+        "continent": "North America"
+    },
+    {
+        "name": "Bahamas",
+        "population": 385340,
+        "area": 13940,
+        "capital": "Nassau",
+        "continent": "North America"
+    },
+    {
+        "name": "Barbados",
+        "population": 287025,
+        "area": 431,
+        "capital": "Bridgetown",
+        "continent": "North America"
+    },
+    {
+        "name": "Cape Verde",
+        "population": 560899,
+        "area": 4033,
+        "capital": "Praia",
+        "continent": "Africa"
+    },
+    {
+        "name": "Comoros",
+        "population": 869601,
+        "area": 2235,
+        "capital": "Moroni",
+        "continent": "Africa"
+    },
+    {
+        "name": "Cuba",
+        "population": 11326616,
+        "area": 110860,
+        "capital": "Havana",
+        "continent": "North America"
+    },
+    {
+        "name": "Cyprus",
+        "population": 1221549,
+        "area": 9251,
+        "capital": "Nicosia",
+        "continent": "Europe"
+    },
+    {
+        "name": "Dominica",
+        "population": 71986,
+        "area": 739,
+        "capital": "Roseau",
+        "continent": "North America"
+    },
+    {
+        "name": "Dominican Republic",
+        "population": 10882996,
+        "area": 48670,
+        "capital": "Santo Domingo",
+        "continent": "North America"
+    },
+    {
+        "name": "Fiji",
+        "population": 896445,
+        "area": 18274,
+        "capital": "Suva",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Grenada",
+        "population": 112003,
+        "area": 344,
+        "capital": "St. George's",
+        "continent": "North America"
+    },
+    {
+        "name": "Haiti",
+        "population": 11402528,
+        "area": 27750,
+        "capital": "Port-au-Prince",
+        "continent": "North America"
+    },
+    {
+        "name": "Iceland",
+        "population": 366130,
+        "area": 103000,
+        "capital": "Reykjavik",
+        "continent": "Europe"
+    },
+    {
+        "name": "Indonesia",
+        "population": 273523615,
+        "area": 1904569,
+        "capital": "Jakarta",
+        "continent": "Asia"
+    },
+    {
+        "name": "Ireland",
+        "population": 4937796,
+        "area": 70273,
+        "capital": "Dublin",
+        "continent": "Europe"
+    },
+    {
+        "name": "Jamaica",
+        "population": 2961167,
+        "area": 10991,
+        "capital": "Kingston",
+        "continent": "North America"
+    },
+    {
+        "name": "Japan",
+        "population": 126476461,
+        "area": 377975,
+        "capital": "Tokyo",
+        "continent": "Asia"
+    },
+    {
+        "name": "Kiribati",
+        "population": 119449,
+        "area": 811,
+        "capital": "Tarawa",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Madagascar",
+        "population": 27691019,
+        "area": 587041,
+        "capital": "Antananarivo",
+        "continent": "Africa"
+    },
+    {
+        "name": "Maldives",
+        "population": 540542,
+        "area": 300,
+        "capital": "Male",
+        "continent": "Asia"
+    },
+    {
+        "name": "Malta",
+        "population": 441543,
+        "area": 316,
+        "capital": "Valletta",
+        "continent": "Europe"
+    },
+    {
+        "name": "Mauritius",
+        "population": 1271768,
+        "area": 2040,
+        "capital": "Port Louis",
+        "continent": "Africa"
+    },
+    {
+        "name": "Micronesia",
+        "population": 548914,
+        "area": 702,
+        "capital": "Palikir",
+        "continent": "Oceania"
+    },
+    {
+        "name": "New Zealand",
+        "population": 4822233,
+        "area": 270467,
+        "capital": "Wellington",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Palau",
+        "population": 18092,
+        "area": 459,
+        "capital": "Ngerulmud",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Philippines",
+        "population": 108116615,
+        "area": 300000,
+        "capital": "Manila",
+        "continent": "Asia"
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "population": 53199,
+        "area": 261,
+        "capital": "Basseterre",
+        "continent": "North America"
+    },
+    {
+        "name": "Saint Lucia",
+        "population": 183627,
+        "area": 617,
+        "capital": "Castries",
+        "continent": "North America"
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "population": 110211,
+        "area": 389,
+        "capital": "Kingstown",
+        "continent": "North America"
+    },
+    {
+        "name": "Samoa",
+        "population": 198414,
+        "area": 2831,
+        "capital": "Apia",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Seychelles",
+        "population": 98347,
+        "area": 459,
+        "capital": "Victoria",
+        "continent": "Africa"
+    },
+    {
+        "name": "Singapore",
+        "population": 5703569,
+        "area": 719,
+        "capital": "Singapore",
+        "continent": "Asia"
+    },
+    {
+        "name": "Solomon Islands",
+        "population": 686884,
+        "area": 28370,
+        "capital": "Honiara",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Sri Lanka",
+        "population": 21413249,
+        "area": 65610,
+        "capital": "Colombo",
+        "continent": "Asia"
+    },
+    {
+        "name": "Timor-Leste",
+        "population": 1318442,
+        "area": 14874,
+        "capital": "Dili",
+        "continent": "Asia"
+    },
+    {
+        "name": "Tonga",
+        "population": 105695,
+        "area": 747,
+        "capital": "Nuku'alofa",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "population": 1399488,
+        "area": 5130,
+        "capital": "Port of Spain",
+        "continent": "North America"
+    },
+    {
+        "name": "Tuvalu",
+        "population": 11792,
+        "area": 26,
+        "capital": "Funafuti",
+        "continent": "Oceania"
+    },
+    {
+        "name": "United Kingdom",
+        "population": 67886004,
+        "area": 242500,
+        "capital": "London",
+        "continent": "Europe"
+    },
+    {
+        "name": "Vanuatu",
+        "population": 307145,
+        "area": 12189,
+        "capital": "Port Vila",
+        "continent": "Oceania"
+    },
+    # Add more island countries here...
+]
+
